@@ -1,0 +1,329 @@
+{
+  "onboardingScreen": {
+    "tapBack": "Trokitni përsëri për të dalë nga aplikacioni",
+    "title1": "Udhëtoni, por jo vetëm",
+    "title2": "Ndani udhëtimin tuaj",
+    "title3": "Gjeni udhëtimin tuaj"
+  },
+  "loginScreen": {
+    "login": "Hyr",
+    "mobileNumber": "Numri i telefonit",
+    "welcomePlease": "Mirësevini në aplikacionin Share & Go",
+    "enterMobileNumber": "Shkruani numrin e telefonit",
+    "tapBack": "Trokitni përsëri për të dalë nga aplikacioni",
+    "search": "Kërko",
+    "close": "Mbyll"
+  },
+  "registerScreen": {
+    "register": "Regjistrohu",
+    "welcomePlease": "Mirësevini, ju lutem krijoni llogarinë tuaj duke përdorur adresën e email-it",
+    "userName": "Emri i përdoruesit",
+    "enterUserName": "Shkruani emrin tuaj të përdoruesit",
+    "emailAddress": "Adresa e email-it",
+    "enterEmailAddress": "Shkruani adresën tuaj të email-it",
+    "mobileNumber": "Numri i telefonit",
+    "enterMobileNumber": "Shkruani numrin tuaj të telefonit"
+  },
+  "otpVerificationScreen": {
+    "oTPVerification": "Verifikimi OTP",
+    "confirmation": "Kodi i konfirmimit ju është dërguar në numrin tuaj të telefonit",
+    "verify": "Verifiko"
+  },
+  "uploadDocumentScreen": {
+    "uploadDocument": "Ngarkoni dokumentin tuaj",
+    "drivingLicense": "Leja e drejtimit",
+    "uploadDrivingLicense": "Ngarkoni lejen tuaj të drejtimit",
+    "governmentId": "ID personale",
+    "continue": "Vazhdo",
+    "uploadAnyOne": "Ngarkoni një nga provat qeveritare, p.sh. Kartë ID",
+    "pleaseWait": "Ju lutem prisni"
+  },
+  "layout": {
+    "findPool": "Udhëtar",
+    "offerPool": "Shofer",
+    "myTrip": "Udhëtimi im",
+    "profile": "Profili",
+    "tapBack": "Trokitni përsëri për të dalë nga aplikacioni"
+  },
+  "findPoolScreen": {
+    "findYourPool": "Gjej Udhëtimin tënd",
+    "youFull": "Udhëtim i plotë dhe i rehatshëm, ndani udhëtimin tuaj me të tjerët si ju",
+    "sourceLocation": "Vendi i nisjes",
+    "destinationLocation": "Vendi i mbërritjes",
+    "dateTime": "Data dhe ora",
+    "noOfSeat": "Numri i sediljeve",
+    "findPool": "Gjej Udhëtim",
+    "selectSeat": "Zgjidh sediljen",
+    "cancel": "Anulo",
+    "okay": "Në rregull",
+    "seat": "sedilje"
+  },
+  "pickLocationsScreen": {
+    "search": "Kërko",
+    "pickLocation": "Zgjidh këtë vendndodhje"
+  },
+  "dateAndTimeModal": {
+    "selectDateTime": "Zgjidh datën dhe orën",
+    "cancel": "Anulo",
+    "okay": "Në rregull"
+  },
+  "notificationScreen": {
+    "notification": "Njoftimet",
+    "noNotification": "Asnjë njoftim i ri",
+    "removed": "Njoftimi u anulua!"
+  },
+  "availablePoolScreen": {
+    "findPool": "Gjej Udhëtim",
+    "review": "Rishikim",
+    "seat": "sedilje"
+  },
+  "riderProfileScreen": {
+    "riderProfile": "Profili i udhëtarit",
+    "about": "Rreth",
+    "review": "Rishikim",
+    "requestRide": "Kërkoni udhëtim",
+    "withdrawRequest": "Tërhiq kërkesën",
+    "callRider": "Njofto udhëtarin"
+  },
+  "aboutTab": {
+    "rideInfo": "Informacion për udhëtimin",
+    "viewMap": "Shiko në hartë",
+    "startTime": "Koha e nisjes",
+    "returnTime": "Koha e kthimit",
+    "rideWith": "Udhëtoni me",
+    "people": "persona",
+    "coPassengers": "Bashkudhëtarë",
+    "seatLeft": "Sedilje të mbetura",
+    "emptySeat": "Sedilje e zbrazët",
+    "vehicleInfo": "Informacion për mjetin",
+    "facilities": "Facilitete",
+    "instruction": "Preferenca"
+  },
+  "reviewTab": {
+    "overallRating": "Vlerësimi i përgjithshëm",
+    "review": "Rishikim",
+    "viewAll": "Shiko të gjitha"
+  },
+  "chatScreen": {
+    "typeYourTextHere": "Shkruani tekstin tuaj këtu..."
+  },
+  "reviewScreen": {
+    "review": "Rishikim"
+  },
+  "mapViewScreen": {
+    "mapView": "Pamja e hartës",
+    "pickUpPoint": "Pika e marrjes",
+    "sourceLocation": "Vendi i nisjes",
+    "destinationLocation": "Vendi i mbërritjes",
+    "drive": "Shofer",
+    "dropPoint": "Pika e zbritjes",
+    "rideStarts": "Udhëtimi fillon më"
+  },
+  "offerPoolScreen": {
+    "offerPool": "OFRO UDHËTIM",
+    "createPool": "Krijoni Udhëtimin-in tuaj",
+    "sourceLocation": "Vendi i nisjes",
+    "destinationLocation": "Vendi i mbërritjes",
+    "dateTime": "Data dhe ora",
+    "recurringRide": "Udhëtim i përsëritur",
+    "continue": "Vazhdo",
+    "share": "Ndani udhëtimin tuaj me bashkudhëtarët dhe mbuloni të gjitha shpenzimet e karburantit"
+  },
+  "setOfferScreen": {
+    "offerPool": "Ofro Udhëtim",
+    "setPrice": "Vendos çmimin",
+    "yourCar": "Mjeti juaj",
+    "selectYourCar": "Zgjidh mjetin tuaj",
+    "seatOffering": "Oferta për sedilje",
+    "enterAvailableSeat": "Shkruani numrin e sediljeve të disponueshme",
+    "facilities": "Facilitete",
+    "extra": "p.sh. AC, Bagazh shtesë etj.",
+    "enterFacilities": "Shkruani facilitete",
+    "instruction": "Preferenca",
+    "enterInstruction": "Shkruani instruksionet",
+    "smoking": "p.sh. jo duhanpirje, kafshë shtëpiake, etj.",
+    "continue": "Vazhdo",
+    "selectCar": "Zgjidh mjetin",
+    "cancel": "Anulo",
+    "okay": "Në rregull"
+  },
+  "successOfferPoolScreen": {
+    "congratulation": "Oferta juaj për udhëtim është krijuar"
+  },
+  "myTripScreen": {
+    "myTrip": "UDHËTIMI IM",
+    "myPool": "Udhëtimi im",
+    "requestPool": "Kërkesë për Udhëtim",
+    "poolInfo": "Informacion për Udhëtim",
+    "requests": "Kërkesa"
+  },
+  "poolRequestScreen": {
+    "poolTakerRequest": "Kërkesë për marrje Pool",
+    "decline": "Refuzo",
+    "accept": "Prano",
+    "seat": "sedilje"
+  },
+  "rideInfoScreen": {
+    "map": "Pamje e hartës",
+    "startRide": "Fillo udhëtimin",
+    "sourceLocation": "Vendi i nisjes",
+    "pickUp": "Merr",
+    "destinationLocation": "Vendi i mbërritjes",
+    "coPassengers": "Bashkudhëtarë",
+    "rideStartsOn": "Udhëtimi fillon më"
+  },
+  "startRideScreen": {
+    "tripRoadmap": "Harta e udhëtimit",
+    "drop": "Zbrit",
+    "endRide": "Mbaro udhëtimin",
+    "pick": "Merr"
+  },
+  "tripCompletedScreen": {
+    "tripCompleted": "Udhëtimi përfundoi",
+    "backHome": "Kthehu në shtëpi",
+    "yourTripCompleted": "Udhëtimi juaj ka përfunduar. dhe urime, keni fituar",
+    "fromThisTrip": "nga ky udhëtim"
+  },
+  "profileScreen": {
+    "profile": "PROFILI",
+    "wallet": "Portofoli",
+    "editProfile": "Ndrysho profilin",
+    "myCar": "Makina ime",
+    "rideHistory": "Historia e udhëtimeve",
+    "language": "Gjuha",
+    "termsCondition": "Kushtet dhe afatet",
+    "privacyPolicy": "Politika e privatësisë",
+    "helpSupport": "Ndihmë & mbështetje",
+    "logout": "Dil",
+    "areYouSure": "A jeni i sigurt që doni të dilni?",
+    "cancel": "Anulo"
+  },
+  "walletScreen": {
+    "wallet": "Portofoli",
+    "totalBalance": "Bilanci total",
+    "addMoney": "Shto para",
+    "sendBank": "Dërgo në bankë",
+    "recentTransaction": "Transaksionet e fundit"
+  },
+  "addMoneyScreen": {
+    "addMoney": "Shto para",
+    "addAmount": "Shto shumën",
+    "enterAmountAdd": "Vendos shumën për të shtuar",
+    "selectPaymentMethod": "Zgjidh metodën e pagesës"
+  },
+  "creditCardScreen": {
+    "nameCard": "Emri në kartë",
+    "enterName": "Vendos emrin në kartë",
+    "cardNumber": "Numri i kartës",
+    "enterNumber": "Vendos numrin e kartës",
+    "expireDate": "Data e skadimit",
+    "continue": "Vazhdo"
+  },
+  "successTransactionScreen": {
+    "added": "shtuar",
+    "congratulation": "Urime, paratë tuaja u shtuan me sukses në portofol",
+    "sendCongratulation": "Urime, paratë tuaja u dërguan me sukses në llogarinë tuaj bankare",
+    "backHome": "Kthehu në shtëpi",
+    "havingIssue": "Keni problem? Na kontaktoni",
+    "sended": "Dërguar"
+  },
+  "sendToBankScreen": {
+    "sendBank": "Dërgo në bankë",
+    "totalBalance": "Bilanci total",
+    "amountTransfer": "Shuma për transferim",
+    "enterAmountTransfer": "Vendos shumën për të transferuar",
+    "continue": "Vazhdo"
+  },
+  "bankInfoScreen": {
+    "bankInformation": "Informacioni i bankës",
+    "accountHolderName": "Emri i mbajtësit të llogarisë",
+    "enterAccountHolderName": "Vendos emrin e mbajtësit të llogarisë",
+    "bankName": "Emri i bankës",
+    "enterBankName": "Vendos emrin e bankës",
+    "branchCode": "Kodi i degës",
+    "enterBranchCode": "Vendos kodin e degës",
+    "accountNumber": "Numri i llogarisë",
+    "enterAccountNumber": "Vendos numrin e llogarisë",
+    "sendBank": "Dërgo në bankë"
+  },
+  "editProfileScreen": {
+    "editProfile": "Ndrysho profilin",
+    "name": "Emri",
+    "enterName": "Vendos emrin tuaj",
+    "mobileNumber": "Numri i celularit",
+    "enterMobileNumber": "Vendos numrin tuaj të celularit",
+    "emailAddress": "Adresa e emailit",
+    "enterEmail": "Vendos adresën tuaj të emailit",
+    "governmentId": "ID e qeverisë",
+    "drivingLicense": "Leje drejtimi",
+    "update": "Përditëso",
+    "profilePhoto": "Foto profili"
+  },
+  "changePhotoBottomSheet": {
+    "camera": "Kamera",
+    "gallery": "Galeria",
+    "remove": "Hiq",
+    "change": "Ndrysho"
+  },
+  "myCarScreen": {
+    "myCar": "Makina ime",
+    "addNewCar": "Shto makinë të re",
+    "carNotAdded": "Makinë e pashtuar",
+    "removed": "Hequr nga makina ime",
+    "seat": "vend"
+  },
+  "addNewCarScreen": {
+    "addNewCar": "Shton makinë të re",
+    "addVehicleImage": "Shto imazhin e mjetit",
+    "vehicleType": "Lloji i mjetit",
+    "selectVehicleType": "Zgjidh llojin e mjetit",
+    "vehicleName": "Emri i mjetit",
+    "enterVehicleName": "Vendos emrin e mjetit",
+    "vehicleRegNumber": "Numri i regjistrimit të mjetit",
+    "enterVehicleNumber": "Vendos numrin e regjistrimit të mjetit",
+    "seatOffering": "Vende të lira",
+    "enterAvailableSeat": "Vendos numrin e vendeve të disponueshme",
+    "facilities": "Kushtet (p.sh. ajër i kondicionuar, bagazh shtesë etj.)",
+    "enterFacilities": "Vendos pajisjet",
+    "add": "Shto",
+    "extraLuggage": "p.sh. ajër i kondicionuar, bagazh shtesë etj.",
+    "instruction": "Preferencat",
+    "smoking": "p.sh. mos pirje duhani, kafshë etj.",
+    "enterInstruction": "Vendos udhëzimet",
+    "carType": "Lloji i makinës",
+    "cancel": "Anulo",
+    "okay": "Në rregull",
+    "chooseOption": "Zgjidh opsionin",
+    "camera": "Kamera",
+    "gallery": "Galeria"
+  },
+  "rideHistoryScreen": {
+    "rateYourRide": "Vlerësoni udhëtimin tuaj",
+    "rideHistory": "Historiku i udhëtimeve",
+    "rateUs": "Vlerësona",
+    "saySomething": "Thuaj diçka",
+    "cancel": "Anulo",
+    "send": "Dërgo",
+    "howWayYour": "Si ishte udhëtimi juaj me Wilson Johan? Ndani përshtypjet tuaja me ne"
+  },
+  "languageScreen": {
+    "language": "Gjuha",
+    "update": "Përditëso"
+  },
+  "termsAndConditionScreen": {
+    "termsAndCondition": "Kushtet dhe afatet"
+  },
+  "privacyPolicyScreen": {
+    "privacyPolicy": "Politikat e privatësisë"
+  },
+  "helpSupportScreen": {
+    "helpSupport": "Kërko ndihmë",
+    "name": "Emri",
+    "enterName": "Vendosni emrin tuaj",
+    "emailAddress": "Adresa e emailit",
+    "enterEmailAddress": "Vendosni adresën e emailit",
+    "message": "Mesazhi",
+    "writeMessageHere": "Shkruani mesazhin këtu",
+    "submit": "Dërgo"
+  }
+}

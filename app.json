@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "rn-CC-PoolRide",
+    "name": "RN PoolRide",
     "slug": "rn-CC-PoolRide",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,17 +9,27 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.cc.rnexpo_poolride",
+      "buildNumber": "1.0.0",
+      "supportsTablet": false
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.cc.rnexpo_poolride",
+        "versionCode": 1,
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR GOOGLE MAP API KEY HERE"
+        }
+      },
+      "package": "com.cc.rnexpo_poolride"
     },
     "web": {
       "bundler": "metro",
@@ -27,10 +37,16 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      }
     }
   }
 }

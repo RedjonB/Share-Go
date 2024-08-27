@@ -1,0 +1,331 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Tocca di nuovo per uscire dall'app",
+        "title1": "Viaggiare ma non solo",
+        "title2": "Condividi la tua corsa",
+        "title3": "Trova la tua corsa"
+    },
+    "loginScreen": {
+        "login": "login",
+        "mobileNumber": "Numero di cellulare",
+        "welcomePlease": "Benvenuto Accedi al tuo account utilizzando il numero di cellulare",
+        "enterMobileNumber": "Inserisci il tuo numero di telefono",
+        "tapBack": "Tocca di nuovo per uscire dall'app",
+        "search": "Ricerca",
+        "close": "Vicina"
+    },
+    "registerScreen": {
+        "register": "Registrati",
+        "welcomePlease": "Benvenuto Crea il tuo account utilizzando l'indirizzo email",
+        "userName": "Nome utente",
+        "enterUserName": "Inserisci il tuo nome utente",
+        "emailAddress": "Indirizzo e-mail",
+        "enterEmailAddress": "Inserisci il tuo indirizzo email",
+        "mobileNumber": "Numero di cellulare",
+        "enterMobileNumber": "Inserisci il tuo numero di telefono"
+    },
+    "otpVerificationScreen": {
+        "oTPVerification": "Verifica OTP",
+        "confirmation": "Il codice di conferma ti è stato inviato sul tuo numero di cellulare",
+        "verify": "Verificare"
+    },
+    "uploadDocumentScreen": {
+        "uploadDocument": "Carica il tuo documento",
+        "drivingLicense": "Patente di guida",
+        "uploadDrivingLicense": "Carica la patente di guida dell'auto",
+        "governmentId": "ID governo",
+        "continue": "Continua",
+        "uploadAnyOne": "Carica una prova governativa, ovvero una carta Aadhar o ID elettore",
+        "pleaseWait": "attendere prego"
+    },
+    "layout": {
+        "findPool": "Trova la piscina",
+        "offerPool": "Offri piscina",
+        "myTrip": "Il mio viaggio",
+        "profile": "Profilo",
+        "tapBack": "Tocca di nuovo per uscire dall'app"
+    },
+    "findPoolScreen": {
+        "findYourPool": "Trova la tua piscina",
+        "youFull": "Viaggi pieno e confortevole, condividi il tuo viaggio con tutti come te",
+        "sourceLocation": "Posizione della fonte",
+        "destinationLocation": "Posizione di destinazione",
+        "dateTime": "Appuntamento",
+        "noOfSeat": "NO di sedile",
+        "findPool": "Trova la piscina",
+        "selectSeat": "Seleziona sedile",
+        "cancel": "Annulla",
+        "okay": "Va bene",
+        "seat": "posto a sedere"
+    },
+    "pickLocationsScreen": {
+        "search": "Ricerca",
+        "pickLocation": "Scegli questa posizione"
+    },
+    "dateAndTimeModal": {
+        "selectDateTime": "Seleziona Data e ora",
+        "cancel": "Annulla",
+        "okay": "Va bene"
+    },
+    "notificationScreen": {
+        "notification": "Notifica",
+        "noNotification": "Nessuna nuova notifica",
+        "removed": "Notifica licenziata!."
+    },
+    "availablePoolScreen": {
+        "findPool": "Trova la piscina",
+        "review": "revisione",
+        "seat": "posto a sedere"
+    },
+    "riderProfileScreen": {
+        "riderProfile": "Profilo del pilota",
+        "about": "Di",
+        "review": "Revisione",
+        "requestRide": "Richiesta",
+        "withdrawRequest": "Richiesta di prelievo",
+        "callRider": "Chiama Rider"
+    },
+    "aboutTab": {
+        "rideInfo": "Informazioni di guida",
+        "viewMap": "Visualizza nella mappa",
+        "startTime": "Ora di inizio",
+        "returnTime": "Tempo di ritorno",
+        "rideWith": "Cavalcare con",
+        "people": "persone",
+        "coPassengers": "CO passeggeri",
+        "seatLeft": "Sedile a sinistra",
+        "emptySeat": "Posto vuoto",
+        "vehicleInfo": "Informazioni sul veicolo",
+        "facilities": "Strutture",
+        "instruction": "Istruzione"
+    },
+    "reviewTab": {
+        "overallRating": "Valutazione complessiva",
+        "review": "Revisione",
+        "viewAll": "Mostra tutto"
+    },
+    "chatScreen": {
+        "typeYourTextHere": "Scrivi il tuo testo qui...."
+    },
+    "reviewScreen": {
+        "review": "Revisione"
+    },
+    "mapViewScreen": {
+        "mapView": "Vista mappa",
+        "pickUpPoint": "Punto di raccolta",
+        "sourceLocation": "Posizione della fonte",
+        "destinationLocation": "Posizione di destinazione",
+        "drive": "Guidare",
+        "dropPoint": "Punto in calo",
+        "rideStarts": "La corsa inizia"
+    },
+    "offerPoolScreen": {
+        "offerPool": "Offri piscina",
+        "createPool": "Crea la tua piscina",
+        "sourceLocation": "Posizione della fonte",
+        "destinationLocation": "Posizione di destinazione",
+        "dateTime": "Appuntamento",
+        "recurringRide": "Cavalcatura ricorrente",
+        "continue": "Continua",
+        "share": "Condividi il tuo viaggio in auto con co-viaggiatori come te e copri tutti i costi del carburante"
+    },
+    "setOfferScreen": {
+        "offerPool": "Offri piscina",
+        "setPrice": "Impostare il prezzo",
+        "yourCar": "La tua auto",
+        "selectYourCar": "Seleziona la tua auto",
+        "seatOffering": "Offerta di posti",
+        "enterAvailableSeat": "Immettere il posto disponibile",
+        "facilities": "Strutture",
+        "extra": "cioè AC, bagagli extra ecc.",
+        "enterFacilities": "Immettere le strutture",
+        "instruction": "Istruzione",
+        "enterInstruction": "Immettere l'istruzione",
+        "smoking": "cioè non fumare, animali domestici, ecc.",
+        "continue": "Continua",
+        "selectCar": "Seleziona l'auto",
+        "cancel": "Annulla",
+        "okay": "Va bene"
+    },
+    "successOfferPoolScreen": {
+        "congratulation": "Congratulazioni La tua offerta di corsa è stata creata"
+    },
+    "myTripScreen": {
+        "myTrip": "IL MIO VIAGGIO",
+        "myPool": "La mia piscina",
+        "requestPool": "Richiesta di pool",
+        "poolInfo": "Informazioni sul pool",
+        "requests": "Richieste"
+    },
+    "poolRequestScreen": {
+        "poolTakerRequest": "Richiesta di acquirente del pool",
+        "decline": "Declino",
+        "accept": "Accettare",
+        "seat": "posto a sedere"
+    },
+    "rideInfoScreen": {
+        "map": "Vista mappa",
+        "startRide": "Inizia a cavalcare",
+        "sourceLocation": "Posizione della fonte",
+        "pickUp": "Raccolta",
+        "destinationLocation": "Posizione di destinazione",
+        "coPassengers": "Co-passeggeri",
+        "rideStartsOn": "La corsa inizia"
+    },
+    "startRideScreen": {
+        "tripRoadmap": "Trip Roadmap",
+        "drop": "Gocciolare",
+        "endRide": "End Ride",
+        "pick": "Scegliere"
+    },
+    "tripCompletedScreen": {
+        "tripCompleted": "Viaggio completato",
+        "backHome": "Tornare a casa",
+        "yourTripCompleted": "Il tuo viaggio è completato.e congratulazioni che hai guadagnato",
+        "fromThisTrip": "da questo viaggio"
+    },
+    "profileScreen": {
+        "profile": "PROFILO",
+        "wallet": "Portafoglio",
+        "editProfile": "Modifica Profilo",
+        "myCar": "La mia auto",
+        "rideHistory": "Storia di cavalcate",
+        "language": "Lingua",
+        "termsCondition": "Termini e condizioni",
+        "privacyPolicy": "Politica sulla riservatezza",
+        "helpSupport": "Supporto",
+        "logout": "Disconnettersi",
+        "areYouSure": "Sei sicuro di voler uscire?",
+        "cancel": "Annulla"
+    },
+    "walletScreen": {
+        "wallet": "Portafoglio",
+        "totalBalance": "Saldo totale",
+        "addMoney": "Aggiungi denaro",
+        "sendBank": "Invia in banca",
+        "recentTransaction": "Transazione recente"
+    },
+    "addMoneyScreen": {
+        "addMoney": "Aggiungi denaro",
+        "addAmount": "Aggiungi importo",
+        "enterAmountAdd": "Inserisci l'importo da aggiungere",
+        "selectPaymentMethod": "Scegli il metodo di pagamento"
+    },
+    "creditCardScreen": {
+        "nameCard": "nome sulla carta",
+        "enterName": "Immettere il nome sulla carta",
+        "cardNumber": "Numero di carta",
+        "enterNumber": "Immettere il numero della scheda",
+        "expireDate": "Data di scadenza",
+        "continue": "Continua"
+    },
+    "successTransactionScreen": {
+        "added": "aggiunto",
+        "congratulation": "Congratulazioni i tuoi soldi aggiungono con successo il portafoglio",
+        "sendCongratulation": "Congratulazioni i tuoi soldi inviati con successo nel tuo conto bancario",
+        "backHome": "Tornare a casa",
+        "havingIssue": "Hai problemi?Contattaci",
+        "sended": "Inviato"
+    },
+    "sendToBankScreen": {
+        "sendBank": "Invia in banca",
+        "totalBalance": "Saldo totale",
+        "amountTransfer": "Importo da trasferire",
+        "enterAmountTransfer": "Immettere l'importo per il trasferimento",
+        "continue": "Continua"
+    },
+    "bankInfoScreen": {
+        "bankInformation": "informazioni bancarie",
+        "accountHolderName": "Nome del titolare",
+        "enterAccountHolderName": "Immettere il nome del titolare dell'account",
+        "bankName": "nome della banca",
+        "enterBankName": "Immettere il nome della banca",
+        "branchCode": "Codice della filiale",
+        "enterBranchCode": "Immettere il codice di filiale",
+        "accountNumber": "Numero di conto",
+        "enterAccountNumber": "Immettere il numero di conto",
+        "sendBank": "Invia in banca"
+    },
+    "editProfileScreen": {
+        "editProfile": "Modifica Profilo",
+        "name": "Nome",
+        "enterName": "Inserisci il tuo nome",
+        "mobileNumber": "Numero di cellulare",
+        "enterMobileNumber": "Inserisci il tuo numero di telefono",
+        "emailAddress": "Indirizzo e-mail",
+        "enterEmail": "Inserisci il tuo indirizzo email",
+        "governmentId": "ID governo",
+        "drivingLicense": "Patente di guida",
+        "update": "Aggiornamento",
+        "profilePhoto": "Foto profilo"
+    },
+    "changePhotoBottomSheet": {
+        "camera": "Telecamera",
+        "gallery": "Galleria",
+        "remove": "Rimuovere",
+        "change": "Modifica"
+    },
+    "myCarScreen": {
+        "myCar": "La mia auto",
+        "addNewCar": "Aggiungi nuova auto",
+        "carNotAdded": "Auto non aggiunta",
+        "removed": "Rimosso dalla mia macchina",
+        "seat": "posto a sedere"
+    },
+    "addNewCarScreen": {
+        "addNewCar": "Aggiungi nuova auto",
+        "addVehicleImage": "Aggiungi l'immagine del veicolo",
+        "vehicleType": "Tipo di veicolo",
+        "selectVehicleType": "Seleziona il tipo di veicolo",
+        "vehicleName": "Nome del veicolo",
+        "enterVehicleName": "Immettere il nome del veicolo",
+        "vehicleRegNumber": "Veicolo Reg.numero",
+        "enterVehicleNumber": "Immettere il veicolo Reg.numero",
+        "seatOffering": "Offerta di posti",
+        "enterAvailableSeat": "Immettere il posto disponibile",
+        "facilities": "Strutture (i.n AC, bagaglio extra ecc.)",
+        "enterFacilities": "Immettere le strutture",
+        "add": "Aggiungere",
+        "extraLuggage": "cioè AC, bagagli extra ecc.",
+        "instruction": "Istruzione",
+        "smoking": "cioè non fumare, animali domestici, ecc.",
+        "enterInstruction": "Immettere l'istruzione",
+        "carType": "Tipo di macchina",
+        "cancel": "Annulla",
+        "okay": "Va bene",
+        "chooseOption": "Scegli l'opzione",
+        "camera": "Telecamera",
+        "gallery": "Galleria"
+    },
+    "rideHistoryScreen": {
+        "rateYourRide": "Valuta la tua corsa",
+        "rideHistory": "Storia di cavalcate",
+        "rateUs": "Valutaci",
+        "saySomething": "Di 'qualcosa",
+        "cancel": "Annulla",
+        "send": "Inviare",
+        "howWayYour": "Come è stata la tua corsa con Wilson Johan Condividi la tua recensione con noi"
+    },
+    "languageScreen": {
+        "language": "Lingua",
+        "update": "Aggiornamento"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Termini e condizioni"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Politica sulla riservatezza"
+    },
+    "helpSupportScreen": {
+        "helpSupport": "Supporto",
+        "name": "Nome",
+        "enterName": "Inserisci il tuo nome",
+        "emailAddress": "Indirizzo e-mail",
+        "enterEmailAddress": "Inserisci il tuo indirizzo email",
+        "message": "Messaggio",
+        "writeMessageHere": "Scrivi un messaggio qui",
+        "submit": "Invia"
+
+    }
+
+}

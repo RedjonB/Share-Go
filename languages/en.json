@@ -1,0 +1,330 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Tap back again to exit the App",
+        "title1": "Travel but not alone",
+        "title2": "Share your ride",
+        "title3": "Find your ride"
+    },
+    "loginScreen": {
+        "login": "Login",
+        "mobileNumber": "Mobile number",
+        "welcomePlease": "Welcome to Share & Go applciation",
+        "enterMobileNumber": "Enter your Mobile number",
+        "tapBack": "Tap back again to exit the App",
+        "search": "Search",
+        "close": "Close"
+    },
+    "registerScreen": {
+        "register": "Register",
+        "welcomePlease": "Welcome please create your account using email address",
+        "userName": "User name",
+        "enterUserName": "Enter your user name",
+        "emailAddress": "Email address",
+        "enterEmailAddress": "Enter your email address",
+        "mobileNumber": "Mobile number",
+        "enterMobileNumber": "Enter your mobile number"
+    },
+    "otpVerificationScreen": {
+        "oTPVerification": "OTP Verification",
+        "confirmation": "Confirmation code has been sent to you on your mobile number",
+        "verify": "Verify"
+    },
+    "uploadDocumentScreen": {
+        "uploadDocument": "Upload your  document",
+        "drivingLicense": "Driving license",
+        "uploadDrivingLicense": "Upload your car driving license",
+        "governmentId": "Government id",
+        "continue": "Continue",
+        "uploadAnyOne": "Upload any one government proof i.e.Aadhar car or Voter id ",
+        "pleaseWait": "Please wait"
+    },
+    "layout": {
+        "findPool": "Find Pool",
+        "offerPool": "Offer Pool",
+        "myTrip": "My Trip",
+        "profile": "Profile",
+        "tapBack": "Tap back again to exit the App"
+    },
+    "findPoolScreen": {
+        "findYourPool": "Find your pool",
+        "youFull": "You full and comfortable travel, share your journey with all like you ",
+        "sourceLocation": "Source location",
+        "destinationLocation": "Destination location",
+        "dateTime": "Date & time",
+        "noOfSeat": "No of seat",
+        "findPool": "Find pool",
+        "selectSeat": "Select seat",
+        "cancel": "Cancel",
+        "okay": "Okay",
+        "seat": "seat"
+    },
+    "pickLocationsScreen": {
+        "search": "Search",
+        "pickLocation": "Pick this location"
+    },
+    "dateAndTimeModal": {
+        "selectDateTime": "Select date & time",
+        "cancel": "Cancel",
+        "okay": "Okay"
+    },
+    "notificationScreen": {
+        "notification": "Notification",
+        "noNotification": "No new notification",
+        "removed": "Notification Dismissed!."
+    },
+    "availablePoolScreen": {
+        "findPool": "Find pool",
+        "review": "review",
+        "seat": "seat"
+    },
+    "riderProfileScreen": {
+        "riderProfile": "Rider profile",
+        "about": "About",
+        "review": "Review",
+        "requestRide": "Request ride",
+        "withdrawRequest": "Withdraw Request",
+        "callRider": "Call rider"
+    },
+    "aboutTab": {
+        "rideInfo": "Ride info",
+        "viewMap": "View in map",
+        "startTime": "Start time",
+        "returnTime": "Return time",
+        "rideWith": "Ride with",
+        "people": "people",
+        "coPassengers": "Co passengers",
+        "seatLeft": "seat left",
+        "emptySeat": "Empty seat",
+        "vehicleInfo": "Vehicle info",
+        "facilities": "Facilities",
+        "instruction": "Instruction"
+    },
+    "reviewTab": {
+        "overallRating": "Overall rating",
+        "review": "Review",
+        "viewAll": "View all"
+    },
+    "chatScreen": {
+        "typeYourTextHere": "Type your text here...."
+    },
+    "reviewScreen": {
+        "review": "Review"
+    },
+    "mapViewScreen": {
+        "mapView": "Map view",
+        "pickUpPoint": "Pick up point",
+        "sourceLocation": "Source location",
+        "destinationLocation": "Destination location",
+        "drive": "Drive",
+        "dropPoint": "Drop up point",
+        "rideStarts": "Ride starts on"
+    },
+    "offerPoolScreen": {
+        "offerPool": "OFFER POOL",
+        "createPool": "Create your pool",
+        "sourceLocation": "Source location",
+        "destinationLocation": "Destination location",
+        "dateTime": "Date & time",
+        "recurringRide": "Recurring ride",
+        "continue": "Continue",
+        "share": "Share your car journey with co-travelers just like you and cover all fuel costs"
+    },
+    "setOfferScreen": {
+        "offerPool": "Offer pool",
+        "setPrice": "Set Price",
+        "yourCar": "Your car",
+        "selectYourCar": "Select your car",
+        "seatOffering": "Seat offering",
+        "enterAvailableSeat": "Enter available seat",
+        "facilities": "Facilities",
+        "extra": "i.e AC,Extra luggage etc.",
+        "enterFacilities": "Enter facilities",
+        "instruction": "Instruction",
+        "enterInstruction": "Enter instruction",
+        "smoking": "i.e no smoking, pet,etc.",
+        "continue": "Continue",
+        "selectCar": "Select car",
+        "cancel": "Cancel",
+        "okay": "Okay"
+    },
+    "successOfferPoolScreen": {
+        "congratulation": "Congratulation your ride offer has been created "
+    },
+    "myTripScreen": {
+        "myTrip": "MY TRIP",
+        "myPool": "My pool",
+        "requestPool": "Request for pool",
+        "poolInfo": "Pool info",
+        "requests": "Requests"
+    },
+    "poolRequestScreen": {
+        "poolTakerRequest": "Pool taker request",
+        "decline": "Decline",
+        "accept": "Accept",
+        "seat": "seat"
+    },
+    "rideInfoScreen": {
+        "map": "Map view",
+        "startRide": "Start ride",
+        "sourceLocation": "Source location",
+        "pickUp": "Pick up",
+        "destinationLocation": "Destination location",
+        "coPassengers": "Co- passengers ",
+        "rideStartsOn": "Ride starts on"
+    },
+    "startRideScreen": {
+        "tripRoadmap": "Trip roadmap",
+        "drop": "Drop",
+        "endRide": "End ride",
+        "pick": "Pick"
+    },
+    "tripCompletedScreen": {
+        "tripCompleted": "Trip completed",
+        "backHome": "Back to home",
+        "yourTripCompleted": "Your trip is completed. and congratulation you have earned",
+        "fromThisTrip": "from this trip"
+    },
+    "profileScreen": {
+        "profile": "PROFILE",
+        "wallet": "Wallet",
+        "editProfile": "Edit profile",
+        "myCar": "My car",
+        "rideHistory": "Ride history",
+        "language": "Language",
+        "termsCondition": "Terms & condition",
+        "privacyPolicy": "Privacy policy",
+        "helpSupport": "Help & support",
+        "logout": "Logout",
+        "areYouSure": "Are you sure you want to logout?",
+        "cancel": "Cancel"
+    },
+    "walletScreen": {
+        "wallet": "Wallet",
+        "totalBalance": "Total balance",
+        "addMoney": "Add money",
+        "sendBank": "Send to bank",
+        "recentTransaction": "Recent transaction"
+    },
+    "addMoneyScreen": {
+        "addMoney": "Add money",
+        "addAmount": "Add amount",
+        "enterAmountAdd": "Enter amount to add",
+        "selectPaymentMethod": "Select payment method"
+    },
+    "creditCardScreen": {
+        "nameCard": "Name on card",
+        "enterName": "Enter name on card",
+        "cardNumber": "Card number",
+        "enterNumber": "Enter card number",
+        "expireDate": "Expire date",
+        "continue": "Continue"
+    },
+    "successTransactionScreen": {
+        "added": "added",
+        "congratulation": "Congratulation your money successfully add in wallet ",
+        "sendCongratulation": "Congratulation your money successfully sended in your bank account",
+        "backHome": "Back to home",
+        "havingIssue": "Having issue ? contact us",
+        "sended": "Sended"
+    },
+    "sendToBankScreen": {
+        "sendBank": "Send to bank",
+        "totalBalance": "Total balance",
+        "amountTransfer": "Amount to transfer",
+        "enterAmountTransfer": "Enter amount to transfer",
+        "continue": "Continue"
+    },
+    "bankInfoScreen": {
+        "bankInformation": "Bank information",
+        "accountHolderName": "Account holder name",
+        "enterAccountHolderName": "Enter account holder name",
+        "bankName": "Bank name",
+        "enterBankName": "Enter bank name",
+        "branchCode": "Branch code",
+        "enterBranchCode": "Enter branch code",
+        "accountNumber": "Account number",
+        "enterAccountNumber": "Enter account number",
+        "sendBank": "Send to bank"
+    },
+    "editProfileScreen": {
+        "editProfile": "Edit profile",
+        "name": "Name",
+        "enterName": "Enter your name",
+        "mobileNumber": "Mobile number",
+        "enterMobileNumber": "Enter your mobile number",
+        "emailAddress": "Email Address",
+        "enterEmail": "Enter your email address",
+        "governmentId": "Government id ",
+        "drivingLicense": "Driving license",
+        "update": "Update",
+        "profilePhoto": "Profile Photo"
+    },
+    "changePhotoBottomSheet": {
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove",
+        "change": "Change"
+    },
+    "myCarScreen": {
+        "myCar": "My car",
+        "addNewCar": "Add new car",
+        "carNotAdded": "Car not added",
+        "removed": "Removed from my car",
+        "seat": "seat"
+    },
+    "addNewCarScreen": {
+        "addNewCar": "Add new car",
+        "addVehicleImage": "Add vehicle image",
+        "vehicleType": "Vehicle type",
+        "selectVehicleType": "Select vehicle type",
+        "vehicleName": "Vehicle name",
+        "enterVehicleName": "Enter vehicle name",
+        "vehicleRegNumber": "Vehicle reg. number",
+        "enterVehicleNumber": "Enter vehicle reg. number",
+        "seatOffering": "Seat offering",
+        "enterAvailableSeat": "Enter available seat",
+        "facilities": "Facilities(i.e AC,Extra luggage etc.)",
+        "enterFacilities": "Enter facilities",
+        "add": "Add",
+        "extraLuggage": "i.e AC,Extra luggage etc.",
+        "instruction": "Instruction",
+        "smoking": "i.e no smoking, pet,etc.",
+        "enterInstruction": "Enter instruction",
+        "carType": "Car type",
+        "cancel": "Cancel",
+        "okay": "Okay",
+        "chooseOption": "Choose option",
+        "camera": "Camera",
+        "gallery": "Gallery"
+    },
+    "rideHistoryScreen": {
+        "rateYourRide": "Rate your ride",
+        "rideHistory": "Ride history",
+        "rateUs": "Rate us",
+        "saySomething": "Say something",
+        "cancel": "Cancel",
+        "send": "Send",
+        "howWayYour": "How was your ride with wilson johan share your review with us "
+    },
+    "languageScreen": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Terms and condition"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Privacy policy"
+    },
+    "helpSupportScreen": {
+        "helpSupport": "Help & support",
+        "name": "Name",
+        "enterName": "Enter your name",
+        "emailAddress": "Email Address",
+        "enterEmailAddress": "Enter your email address",
+        "message": "Message",
+        "writeMessageHere": "Write message here",
+        "submit": "Submit"
+    }
+
+}
